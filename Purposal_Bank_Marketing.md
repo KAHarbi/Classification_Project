@@ -11,7 +11,9 @@ The data is related with direct marketing campaigns of a Portuguese banking inst
 
 ## Background
 In this project, we will use data from the [Kaggle](https://www.kaggle.com/henriqueyamahata/bank-marketing-classification-roc-f1-recall) The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y). 
-
+ 
+ ### Motivation
+It would be interesting to see any machine learning techniques or continued data visualizations applied on this data set.
 
 ## Data Description 
 
