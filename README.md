@@ -38,15 +38,31 @@ Any city have best location and the best days to work ?
 
 ## Libraries:
 
-* Pandas
-* NumPy
-* missingno  
-* Matplotlib
-* Seaborn
-* Counter from collections
-* matplotlib
-* plotly
-* 
+* pandas 
+* numpy 
+* seaborn 
+* plotly.express 
+* matplotlib.pyplot 
+* pandas_profiling 
+* sklearn.model_selection 
+* sklearn.linear_model 
+* sklearn.preprocessing 
+* sklearn.metrics 
+* sklearn.metrics 
+* sklearn.ensemble 
+* sklearn import datasets
+* sklearn.neighbors 
+* sklearn.datasets 
+* sklearn.tree 
+* sklearn.ensemble 
+* ipywidgets
+* imblearn.over_sampling 
+* imblearn.under_sampling 
+* mlxtend.classifier 
+* collections 
+* wordcloud 
+* xgboost
+* warnings
 
 ## Tools:
 
