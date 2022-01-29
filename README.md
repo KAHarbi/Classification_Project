@@ -2,17 +2,14 @@
 
 ![Screenshot 2021-12-18 125058](https://user-images.githubusercontent.com/93244403/146636904-cdd632e7-d672-4748-aa83-a83d14ff02bf.png)
 
-### About Company:
+About Company:
+The Sun is an extremely powerful energy source, and the sunlight is by far the largest source of energy received by Earth, but its intensity at Earth’s surface is actually quite low. This is essential because of the enormous radial spreading of radiation from the distant Sun. With energy costs and consumption rising dramatically, the need for renewable energy has become urgent. In line with the Kingdom’s Vision 2030 plan to diversify energy sources. This project goal is to predict the weather in Saudi Arabia especially Sunny or Not sunny, to use for solar energy Where are the best location and the best days to work.
 
-The Sun is an extremely powerful energy source, and sunlight is by far the largest source of energy received by Earth, but its intensity at Earth’s surface is actually quite low. This is essentially because of the enormous radial spreading of radiation from the distant Sun.With energy costs and consumption rising dramatically, the need for renewable energy has become urgent. In line with the Kingdom’s Vision 2030 plan to diversify energy sources.
-This project goal to predict about weather in saudi arabia especially  of Sunny or Not sunny, to use for solar energy Where is the best location and the best days to work.
+Motivation
+It would be interesting to see any machine learning techniques or continued data visualizations applied to this data set.
 
-
-### Motivation
-It would be interesting to see any machine learning techniques or continued data visualizations applied on this data set.
-
-## Aim and Objectives:
-Any city have best location and the best days to work ?
+Aim and Objectives:
+Does any city have the best location and the best days to work?
 
 ## Data Description
 
